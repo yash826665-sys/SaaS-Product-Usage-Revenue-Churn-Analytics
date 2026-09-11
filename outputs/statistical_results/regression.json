@@ -1,0 +1,26 @@
+{
+  "reg_usage_mrr": {
+    "dependent_variable": "mrr_amount",
+    "independent_variable": "total_usage_count",
+    "n": 500,
+    "slope": 0.9676,
+    "intercept": 2030.97,
+    "r_value": 0.0432,
+    "r_squared": 0.0019,
+    "p_value": 0.3346,
+    "std_err": 1.0018,
+    "conclusion": "Not statistically significant"
+  },
+  "reg_seats_mrr": {
+    "dependent_variable": "mrr_amount",
+    "independent_variable": "seats",
+    "n": 500,
+    "slope": 79.7294,
+    "intercept": 876.57,
+    "r_value": 0.4314,
+    "r_squared": 0.1861,
+    "p_value": 0.0,
+    "std_err": 7.4722,
+    "conclusion": "Statistically significant"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "question": "Is churn status associated with plan tier?",
+  "H0": "Churn status is independent of plan tier.",
+  "H1": "Churn status is associated with plan tier.",
+  "test": "Chi-square test of independence",
+  "alpha": 0.05,
+  "chi2_statistic": 0.477,
+  "dof": 2,
+  "p_value": 0.7879,
+  "conclusion": "Fail to reject H0",
+  "contingency_table": {
+    "Churned": {
+      "Basic": 36,
+      "Enterprise": 41,
+      "Pro": 33
+    },
+    "Retained": {
+      "Basic": 125,
+      "Enterprise": 135,
+      "Pro": 130
+    }
+  }
+}

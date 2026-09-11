@@ -1,0 +1,43 @@
+{
+  "h1_usage": {
+    "question": "Do churned and retained customers differ in total product usage (total_usage_count)?",
+    "H0": "There is no significant difference in mean total usage between retained and churned customers.",
+    "H1": "There is a significant difference in mean total usage between retained and churned customers.",
+    "test": "Welch's Independent Samples t-test",
+    "alpha": 0.05,
+    "retained_mean": 495.13,
+    "churned_mean": 522.04,
+    "t_statistic": -1.419,
+    "p_value": 0.1578,
+    "conclusion": "Fail to reject H0"
+  },
+  "h2_mrr_plan": {
+    "question": "Do the three plan tiers (Basic, Pro, Enterprise) differ in average MRR?",
+    "H0": "The mean MRR is the same across all plan tiers.",
+    "H1": "At least one plan tier has a different mean MRR.",
+    "test": "One-Way ANOVA",
+    "alpha": 0.05,
+    "group_means": {
+      "Basic": 458.12,
+      "Pro": 1317.89,
+      "Enterprise": 5507.55
+    },
+    "f_statistic": 122.359,
+    "p_value": 0.0,
+    "conclusion": "Reject H0"
+  },
+  "h3_satisfaction": {
+    "question": "Do churned customers report lower average support satisfaction scores than retained customers?",
+    "H0": "There is no significant difference in mean satisfaction score between retained and churned customers.",
+    "H1": "There is a significant difference in mean satisfaction score between retained and churned customers.",
+    "test": "Welch's Independent Samples t-test",
+    "alpha": 0.05,
+    "retained_mean": 3.95,
+    "churned_mean": 4.0,
+    "n_retained": 364,
+    "n_churned": 102,
+    "t_statistic": -0.779,
+    "p_value": 0.4373,
+    "conclusion": "Fail to reject H0"
+  }
+}

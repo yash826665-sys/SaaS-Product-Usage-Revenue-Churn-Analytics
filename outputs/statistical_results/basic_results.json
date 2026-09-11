@@ -1,0 +1,13 @@
+{
+  "n_accounts": 500,
+  "n_subscriptions": 5000,
+  "n_usage_events": 25000,
+  "n_tickets": 2000,
+  "n_churn_events": 600,
+  "churned_accounts": 110,
+  "retained_accounts": 390,
+  "account_churn_rate_pct": 22.0,
+  "total_current_mrr": 1257903,
+  "avg_current_mrr": 2515.81,
+  "median_current_mrr": 1010.5
+}
