@@ -42,7 +42,7 @@ See `DATA_DICTIONARY.md` for full column definitions and key relationships.
 
 | Category | Tools |
 |---|---|
-| SQL | SQLite-flavored SQL (portable to Postgres/MySQL with minor date-function changes) |
+| SQL | Pgsql
 | Python | pandas, numpy, matplotlib, seaborn, scipy |
 | Statistics | descriptive statistics, correlation, t-tests, ANOVA, chi-square, simple linear regression |
 | Visualization | Tableau (dashboard mockups + build guide included) |
