@@ -1,8 +1,5 @@
 # SaaS-Product-Usage-Revenue-Churn-Analytics
-This project is  made using python, sql, statistics and tableau. It is a data analytics project.
 
-
-# SaaS Product, Revenue & Churn Analysis
 
 ### An End-to-End Data Analytics Project using SQL, Python, Statistics and Tableau
 
@@ -45,7 +42,7 @@ See `DATA_DICTIONARY.md` for full column definitions and key relationships.
 | SQL | Pgsql
 | Python | pandas, numpy, matplotlib, seaborn, scipy |
 | Statistics | descriptive statistics, correlation, t-tests, ANOVA, chi-square, simple linear regression |
-| Visualization | Tableau (dashboard mockups + build guide included) |
+| Visualization | Tableau (dashboard) |
 
 ## SQL Techniques Demonstrated
 
