@@ -6,7 +6,7 @@
 
 ## Overview
 
-This is a data analytics portfolio project built around a simulated B2B SaaS company, RavenStack. It walks through the full analytics workflow — data understanding, SQL analysis, Python EDA and statistics, and Tableau dashboard design — to answer realistic product, revenue, and churn questions.
+This is a data analytics portfolio project built around a simulated B2B SaaS company, RavenStack. It walks through the full analytics workflow — data understanding, SQL analysis, Python EDA and Statistics, and Tableau dashboard design — to answer realistic product, revenue, and churn questions.
 
 ## Business Problem
 
