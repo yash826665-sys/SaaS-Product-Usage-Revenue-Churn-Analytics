@@ -18,9 +18,9 @@ RavenStack is preparing for broader product growth and wants to understand:
 
 ## Objectives
 
-- Practice intermediate SQL (window functions, CTEs, joins, subqueries, conditional aggregation, date functions, CASE WHEN, basic optimization)
+- Practice SQL (window functions, CTEs, joins, subqueries, conditional aggregation, date functions, CASE WHEN, basic optimization)
 - Practice Python-based EDA and statistics (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
-- Practice simple, defensible statistical reasoning (descriptive stats, correlation, hypothesis testing, a hypothetical A/B test, and simple regression)
+- Practice statistical reasoning (descriptive stats, correlation, hypothesis testing, a hypothetical A/B test, and simple regression)
 - Design a clean, business-usable Tableau dashboard
 - Produce clear, interview-ready documentation of the whole process
 
